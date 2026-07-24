@@ -1,6 +1,11 @@
-# Monte-Carlo-Muon-Beam
 
 # Monte Carlo Muon Beam Simulation
+
+---
+
+Python implementation inspired by the concepts presented in "More Physics with MATLAB" by Dan Green. This repository contains my own implementations for learning purposes.
+
+---
 
 ## Overview
 This Python code simulates a muon beam passing through an iron block using Monte Carlo methods. It models energy loss via the Bethe-Bloch formula and multiple Coulomb scattering to predict beam behavior after traversing the material.
